@@ -1,7 +1,7 @@
 import { drizzle } from "drizzle-orm/node-postgres";
 import { Client } from "pg";
 
-import { privateEnv } from "@/lib/env/private";
+// import { privateEnv } from "@/lib/env/private";
 
 import * as schema from "./schema";
 
